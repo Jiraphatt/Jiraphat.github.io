@@ -94,5 +94,4 @@ font-family: 'Charmonman', cursive;
 </head>
 <body bgcolor="#808080"text="#0000FF">
 </body>
-
 </html>
